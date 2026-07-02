@@ -156,7 +156,7 @@ Based on the analysis of the marketing campaign data, the following business ins
 ## Dataset
 
 - **Dataset:** Marketing Campaign Dataset
-- **Source:** https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset/data
+- **Source:** https://www.kaggle.com/datasets/sinderpreet/analyze-the-marketing-spending
 - **Format:** CSV
 
 ---
